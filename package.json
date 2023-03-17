@@ -1,0 +1,11 @@
+{
+  "name": "belajar-daspro-javascript",
+  "version": "1.0.0",
+  "description": "source code pratikum belajar kelas daspro javascript dicoding academy msib",
+  "main": "variable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zain.elibrahimy",
+  "license": "ISC"
+}
